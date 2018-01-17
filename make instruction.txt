@@ -1,0 +1,6 @@
+make: compile all
+make client: compile client
+make server: compile server
+make clean: clean all executable files
+make runs: run server 
+make runc: run client (server ip can be changed in Makefile)
